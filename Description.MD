@@ -1,3 +1,1 @@
-This application, Jarvis, was built during my internship at Servion Global Solutions in May-June 2019.
-I got the opportunity to work on a voice application that performs actions completely using commands given by the user. 
-It was built completely using Python.
+Jarvis was built during my internship at Servion Global Solutions in May-June 2019. I got the opportunity to work on a voice application to retrieve files using commands given by the user. It was built completely using Python. I got to learn about selenium and other Python libraries while completing this mini-project.
